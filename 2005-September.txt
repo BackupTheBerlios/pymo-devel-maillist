@@ -1,0 +1,175 @@
+From jwarnier at beeznest.net  Fri Sep  2 14:59:30 2005
+From: jwarnier at beeznest.net (=?ISO-8859-1?Q?J=E9r=F4me?= Warnier)
+Date: Fri, 02 Sep 2005 14:59:30 +0200
+Subject: [Pymo-devel] First mail
+Message-ID: <1125665970.16390.21.camel@localhost>
+
+Hello,
+
+I'm subscribed to this ml since 6th August and there have been no mails.
+
+Let me introduce myself and see how we can cooperate and launch this ml
+for good.
+
+I'm 28 years old, and I used to be mainly system administrator (NT and
+UNIX). I worked in many institutional ?companies? which I've left
+several years ago to run my own company oriented about Free Software and
+web development, BeezNest[1].
+
+I'm one of the foundators and currently president of the BxLUG[2],
+Brussels' Linux User Group.
+
+I'm a big Debian fan, and even if I'm not yet official Debian developer,
+I'm contributing reasonably to Debian, and several other OSS projects.
+Back in 2000, I created, together with several other people a concurrent
+to LTSP, which we judged too hacky and power-hungry at that time,
+Plume[3].
+
+Lately, we (BxLUG) created a Debian distribution optimized for
+non-profit organisations (and obsolete hardware) based on Sarge in
+Belgium (so at least tested in French and Flamish): Librassoc[4]. It is
+based on Debian-installer, so we already have experience in hacking it.
+
+Now, we would be interested in a Debian pre-configured to work
+particularly well on servers for SME. That's why I have some interest in
+PyMO. On the other side, a distribution based on Knoppix or so does not
+really attract us (even if based on Debian, we feel it too hackish to
+rely on).
+
+Let me know your thoughts.
+
+[1] http://www.beeznest.net
+[2] http://www.bxlug.be
+[3] http://plume.bxlug.be
+[4] http://www.bxlug.be/librassoc/ (and soon http://www.librassoc.org)
+
+
+
+From jwarnier at beeznest.net  Fri Sep  2 15:53:28 2005
+From: jwarnier at beeznest.net (=?ISO-8859-1?Q?J=E9r=F4me?= Warnier)
+Date: Fri, 02 Sep 2005 15:53:28 +0200
+Subject: [Pymo-devel] Homepage translation in English
+Message-ID: <1125669208.16390.29.camel@localhost>
+
+As promised, I translated the homepage to English.
+
+Attached here.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/pymo-devel/attachments/20050902/2a622f62/attachment.htm>
+
+From ignacio at vialibre.org.ar  Mon Sep  5 21:57:29 2005
+From: ignacio at vialibre.org.ar (Ignacio J. Sanchez B.)
+Date: Mon, 05 Sep 2005 16:57:29 -0300
+Subject: [Pymo-devel] Homepage translation in English
+In-Reply-To: <1125669208.16390.29.camel@localhost>
+References: <1125669208.16390.29.camel@localhost>
+Message-ID: <1125950249.11294.7.camel@localhost.localdomain>
+
+El vie, 02-09-2005 a las 15:53 +0200, J?r?me Warnier escribi?:
+> As promised, I translated the homepage to English.
+> 
+> Attached here.
+
+Excelent, Thanks. I've uploaded and is online.
+
+Saludos,
+Ignacio.
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 189 bytes
+Desc: Esta parte del mensaje est? firmada	digitalmente
+URL: <https://lists.berlios.de/pipermail/pymo-devel/attachments/20050905/b9828879/attachment.pgp>
+
+From ignacio at vialibre.org.ar  Mon Sep  5 23:06:50 2005
+From: ignacio at vialibre.org.ar (Ignacio J. Sanchez B.)
+Date: Mon, 05 Sep 2005 18:06:50 -0300
+Subject: [Pymo-devel] First mail
+In-Reply-To: <1125665970.16390.21.camel@localhost>
+References: <1125665970.16390.21.camel@localhost>
+Message-ID: <1125954410.11294.51.camel@localhost.localdomain>
+
+El vie, 02-09-2005 a las 14:59 +0200, J?r?me Warnier escribi?:
+> Hello,
+> 
+> I'm subscribed to this ml since 6th August and there have been no mails.
+> 
+> Let me introduce myself and see how we can cooperate and launch this ml
+> for good.
+> 
+> I'm 28 years old, and I used to be mainly system administrator (NT and
+> UNIX). I worked in many institutional ?companies? which I've left
+> several years ago to run my own company oriented about Free Software and
+> web development, BeezNest[1].
+> 
+> I'm one of the foundators and currently president of the BxLUG[2],
+> Brussels' Linux User Group.
+> 
+> I'm a big Debian fan, and even if I'm not yet official Debian developer,
+> I'm contributing reasonably to Debian, and several other OSS projects.
+> Back in 2000, I created, together with several other people a concurrent
+> to LTSP, which we judged too hacky and power-hungry at that time,
+> Plume[3].
+> 
+> Lately, we (BxLUG) created a Debian distribution optimized for
+> non-profit organisations (and obsolete hardware) based on Sarge in
+> Belgium (so at least tested in French and Flamish): Librassoc[4]. It is
+> based on Debian-installer, so we already have experience in hacking it.
+> 
+> Now, we would be interested in a Debian pre-configured to work
+> particularly well on servers for SME. That's why I have some interest in
+> PyMO. On the other side, a distribution based on Knoppix or so does not
+> really attract us (even if based on Debian, we feel it too hackish to
+> rely on).
+> 
+> Let me know your thoughts.
+
+Hi,
+
+My name is Ignacio Sanchez, I'm also 28 years old. I work as system
+administrator at several places.
+
+I'm a member of GrULiC, Grupo de usuarios de Software Libre de Cordoba
+
+PyMO Server is my first public proyect and I've learned a lot doing it.
+
+The projec have 3 areas:
+
+- PyMO Server: a server for the basic needs of a Small and Medium
+Organization/Enterprise (file server, auth and mail)
+- PyMO AppServer: an application server for thinclients (pxes, ltsp,
+etc)
+- PyMO Workstation: a easy to install and use desktop linux with the
+basic aplications for SME
+
+I realy like Debian project, it's a great distro and I think is the way
+to go. I don't want to make another distro, but another way to install
+Debian that make it easy to build servers.
+
+Ubuntu is doing a great job in the desktop area, so I don't think PyMO
+workstation is needed.
+
+PyMO AppServer is delayed, probably until PyMO Server reaches 1.0
+
+The main goal now is to make the 0.5 release, that is almost ready.
+
+For 0.6 I'm planing to change the installer to use DebianInstaler, but
+it will need a lot work to make it.
+
+I hope this helps to clarify.
+
+Sorry, I'm not good at writing in English.
+
+Saludos,
+Ignacio.
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 189 bytes
+Desc: Esta parte del mensaje est? firmada	digitalmente
+URL: <https://lists.berlios.de/pipermail/pymo-devel/attachments/20050905/5756ff48/attachment.pgp>
+
